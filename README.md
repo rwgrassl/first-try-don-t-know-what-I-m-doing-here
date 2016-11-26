@@ -1,2 +1,4 @@
 # first-try-don-t-know-what-I-m-doing-here
-forst try at github
+first try at github
+just starting out with rpi3  Trying to get the christmaslightspi program working on a 16 channel relay board.
+No programs here yet to make changes to!
